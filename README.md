@@ -72,5 +72,5 @@
 
 1. Клонировать репозиторий:
    ```bash
-   git clone [https://github.com/Haydan90/ML3.git](https://github.com/Haydan90/ML3.git)
-   cd ML3
+   git clone [https://github.com/Haydan90/ML3_ml-cross-validation-feature-selection.git](https://github.com/Haydan90/ML3_ml-cross-validation-feature-selection.git)
+   cd ML3_ml-cross-validation-feature-selection
